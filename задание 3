@@ -1,4 +1,4 @@
-//Задание 3 http://cpp.sh/3xexr
+//Задание 3
 #include <iostream>
 using namespace std;
 int main()
